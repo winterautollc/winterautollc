@@ -1,16 +1,49 @@
-## Hi there 👋
+👋 Hi, I’m Frederick Winter
 
-<!--
-**winterautollc/winterautollc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a master automotive technician turned full-stack software developer. I build practical, real-world applications that integrate diagnostics, shop workflows, and modern engineering.
 
-Here are some ideas to get you started:
+🔧 Creator of OpenAuto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A full automotive shop management system built with:
+
+Python (backend + business logic)
+
+PyQt6/QML (desktop UI)
+
+FastAPI (REST API)
+
+MySQL/MariaDB (database)
+
+Go (high-performance sidecar service)
+
+Cloudflare Tunnels + Ubuntu Server (deployment)
+
+Features include:
+
+Repair orders, estimates, invoices
+
+Multi-shop support
+
+API integration with PartsTech and Square
+
+OAuth + secure token storage
+
+Dynamic QML UI
+
+HTML/CSS → PDF printing engine
+
+💡 What I Bring
+
+Deep real-world automotive domain knowledge
+
+Strong debugging and system architecture skills
+
+Full-stack engineering experience
+
+Ability to build end-to-end products
+
+Passion for solving real problems with software
+
+📫 Contact
+
+📧 fredwntr1@gmail.com
